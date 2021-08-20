@@ -1,3 +1,4 @@
 static/
 *.mp3
 *.afdesign
+.DS_Store
